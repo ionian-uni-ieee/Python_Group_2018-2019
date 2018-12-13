@@ -1,0 +1,3 @@
+import two
+
+two.hello()

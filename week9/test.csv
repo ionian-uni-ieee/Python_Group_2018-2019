@@ -1,0 +1,19 @@
+,Unnamed: 0,registered_at,checked_in_at,user_id,email_confirmed,date_of_birth,level_of_study,school
+0,0,2018-11-15 23:11:46 UTC,2018-12-01 07:55:51 UTC,5657,True,1998-12-17,University (Undergraduate),Ionian University
+1,1,2018-11-15 23:16:05 UTC,2018-12-01 07:56:22 UTC,6914,True,1998-06-05,University (Undergraduate),Ionian University
+2,2,2018-11-15 23:16:22 UTC,2018-12-01 08:02:12 UTC,6915,True,1998-03-11,University (Master's / Doctoral),ionian university
+3,3,2018-11-20 10:15:37 UTC,2018-12-01 07:58:39 UTC,9657,True,1999-05-10,University (Undergraduate),Ionian University
+4,4,2018-11-18 12:45:05 UTC,2018-12-01 07:57:10 UTC,8133,True,1999-08-03,University (Undergraduate),Ionian University
+5,5,2018-11-16 23:15:59 UTC,2018-12-01 07:54:31 UTC,6917,True,2000-12-02,University (Undergraduate),Ionian University
+6,6,2018-11-16 23:00:23 UTC,2018-12-01 07:55:36 UTC,7524,True,2000-03-31,University (Undergraduate),Ionian University
+7,7,2018-11-20 04:28:22 UTC,2018-12-01 07:54:56 UTC,9400,True,1999-02-18,University (Undergraduate),ionian university
+8,8,2018-11-25 22:00:13 UTC,,13539,True,2000-01-08,University (Undergraduate),Ιονιο Πανεπιστήμιο
+9,9,2018-11-26 18:15:18 UTC,2018-12-01 07:55:12 UTC,14385,True,1998-12-19,University (Undergraduate),Ionian 
+10,10,2018-11-26 22:30:15 UTC,2018-12-01 07:54:49 UTC,14603,True,2000-09-28,University (Undergraduate),Ionian University
+11,11,2018-11-25 18:25:43 UTC,2018-12-01 07:55:42 UTC,13405,True,1998-08-13,University (Undergraduate),Ionian University
+12,12,2018-11-28 07:44:10 UTC,2018-12-01 07:55:19 UTC,8627,True,1998-05-28,University (Undergraduate),Ionian University
+13,13,2018-12-01 08:08:33 UTC,2018-12-01 08:08:33 UTC,22591,True,2000-09-22,University (Undergraduate),Ionian university
+14,14,2018-11-16 23:45:58 UTC,2018-12-01 07:56:43 UTC,7535,True,2000-07-14,University (Undergraduate),Ionian University 
+15,15,2018-11-25 18:18:49 UTC,2018-12-01 07:55:06 UTC,13402,False,1998-10-29,University (Undergraduate),Ionian University
+16,16,2018-11-28 15:33:42 UTC,2018-12-01 07:56:59 UTC,17540,True,1993-06-07,University (Undergraduate),Ionian University
+17,17,2018-11-30 22:54:32 UTC,2018-12-10 20:36:40 UTC,21557,True,1998-03-19,University (Undergraduate),IONIAN UNIVERSITY
